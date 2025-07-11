@@ -1,0 +1,6 @@
+var cdhbchdb = function (a:string, b:string, c?:string) {
+  return a + b + c;
+
+};
+
+console.log(cdhbchdb("a", "b"));
